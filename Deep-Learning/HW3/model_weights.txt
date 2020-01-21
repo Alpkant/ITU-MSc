@@ -1,0 +1,3 @@
+VAE link= https://drive.google.com/open?id=1VBCv86j0BwzHWdIxsGnSDBKV9PXViF8g
+GAN link= https://drive.google.com/open?id=1gaDp0qYBfa-A2g6jPB0jrqDkGHTKGxhY
+SR  link= https://drive.google.com/open?id=1xlpYBD99gBVex71ai1bhS-2ES1DLxbXn
